@@ -11,11 +11,11 @@ The ADReSS-M Signal Processing Grand Challenge targets a difficult automatic pre
 
 - Unimodal 
   - Text
-    - XLM
-    - mBERT
+    - XLM : [Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
+    - mBERT : [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
   - Audio 
-    - Wav2Vec 2.0
-    - XLS-R
+    - wav2vec 2.0 : [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477)
+    - XLS-R : [XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale](https://arxiv.org/abs/2111.09296)
 - Multimodal 
   - concatenate
   - addition 
