@@ -9,7 +9,18 @@ The ADReSS-M Signal Processing Grand Challenge targets a difficult automatic pre
 
 ## Our Experiments
 
-
+- Unimodal 
+  - Text
+    - XLM
+    - mBERT
+  - Audio 
+    - Wav2Vec 2.0
+    - XLS-R
+- Multimodal 
+  - concatenate
+  - addition 
+  - self-attention
+  - cross-attention 
 
 
 
