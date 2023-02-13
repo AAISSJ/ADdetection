@@ -1,4 +1,4 @@
-# ICASSP 2023 SPGC Challenge: Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech 🧑‍🦳👨‍🦳
+# ICASSP 2023 SPGC Challenge: Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech 🧑‍👨‍🦳
 
 
 ## Description
@@ -8,3 +8,6 @@ The ADReSS-M Signal Processing Grand Challenge targets a difficult automatic pre
 
 
 ## Our Experiments
+
+
+## Results 🚀
