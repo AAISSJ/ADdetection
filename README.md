@@ -23,7 +23,7 @@ The ADReSS-M Signal Processing Grand Challenge targets a difficult automatic pre
   - cross-attention 
 
 
-/br
+<br>
 
 ## Results 🚀
 
