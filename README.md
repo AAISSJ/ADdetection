@@ -25,7 +25,4 @@ The ADReSS-M Signal Processing Grand Challenge targets a difficult automatic pre
 
 <br>
 
-## Results 🚀
-
-![image](https://user-images.githubusercontent.com/76966915/218398911-c1fba553-701b-448f-9e46-f42ad24ba400.png)
 
